@@ -1,0 +1,4 @@
+C:\Users\joaov\source\repos\DatabaseOperations\DatabaseOperationsApplication\DatabaseOperationsApplication.csproj;x86
+C:\Users\joaov\source\repos\DatabaseOperations\DatabaseOperationsModels\DatabaseOperationsModels.csproj;x86
+C:\Users\joaov\source\repos\DatabaseOperations\DatabaseOperationsModels\DatabaseOperationsModels.csproj;x86
+C:\Users\joaov\source\repos\DatabaseOperations\DatabaseOperationsRepository\DatabaseOperationsRepository.csproj;x86

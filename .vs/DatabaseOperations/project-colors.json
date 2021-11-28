@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "709a7ce8-0bf0-4960-a761-45114d36ebd5": {
+      "ProjectGuid": "709a7ce8-0bf0-4960-a761-45114d36ebd5",
+      "DisplayName": "DatabaseOperationsApplication",
+      "ColorIndex": 0
+    },
+    "b87c76b8-c294-4762-9203-8cca70d982a8": {
+      "ProjectGuid": "b87c76b8-c294-4762-9203-8cca70d982a8",
+      "DisplayName": "DatabaseOperationsRepository",
+      "ColorIndex": 1
+    },
+    "7b550fc5-be5f-4520-afe3-383c55864f56": {
+      "ProjectGuid": "7b550fc5-be5f-4520-afe3-383c55864f56",
+      "DisplayName": "DatabaseOperationsModels",
+      "ColorIndex": 2
+    },
+    "ec176877-81b7-4c8e-8299-ecd16e141100": {
+      "ProjectGuid": "ec176877-81b7-4c8e-8299-ecd16e141100",
+      "DisplayName": "DatabaseOperationsServices",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

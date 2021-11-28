@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Children" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontFamily" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Inlines" />
+      <RootProperty Name="TextAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="TextWrapping" />
+      <RootProperty Name="Text" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="RenderTransformOrigin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Button">
+      <RootProperty Name="Content" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderBrush" />
+      <RootEvent Name="Click" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.Run">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Documents.LineBreak" />
+    <RootType FullName="DatabaseOperationsApplication.Views.CreateOperationPageView" />
+    <RootType FullName="Windows.UI.Xaml.Media.AcrylicBrush">
+      <RootProperty Name="TintColor" />
+    </RootType>
+    <RootType FullName="DatabaseOperationsApplication.Views.DeleteOperationPageView" />
+    <RootType FullName="Windows.UI.Xaml.VisualStateManager">
+      <RootMethod Name="GetVisualStateGroups" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationView">
+      <RootProperty Name="MenuItems" />
+      <RootProperty Name="Content" />
+      <RootEvent Name="PaneClosing" />
+      <RootEvent Name="PaneOpening" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItemSeparator" />
+    <RootType FullName="Windows.UI.Xaml.Controls.NavigationViewItem">
+      <RootProperty Name="Content" />
+      <RootEvent Name="Tapped" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Frame">
+      <RootProperty Name="Name" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualStateGroup">
+      <RootProperty Name="States" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.VisualState">
+      <RootProperty Name="StateTriggers" />
+      <RootProperty Name="Setters" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.AdaptiveTrigger">
+      <RootProperty Name="MinWindowWidth" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.BindExtension" />
+    <RootType FullName="Windows.UI.Xaml.Setter">
+      <RootProperty Name="Target" />
+      <RootProperty Name="Value" />
+    </RootType>
+    <RootType FullName="DatabaseOperationsApplication.Views.MainMenuPageView" />
+    <RootType FullName="DatabaseOperationsApplication.Views.ReadOperationPageView" />
+    <RootType FullName="DatabaseOperationsApplication.Views.UpdateOperationPageView" />
+  </Roots.RootTypes>
+</Roots>
